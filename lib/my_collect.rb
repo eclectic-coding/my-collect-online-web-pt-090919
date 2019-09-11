@@ -4,5 +4,6 @@ def my_collect(collection)
   new_coll = []
   while i < collection.length 
     
+    i += 1 
   end
 end
